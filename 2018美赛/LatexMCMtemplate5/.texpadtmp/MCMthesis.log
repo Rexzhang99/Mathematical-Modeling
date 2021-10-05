@@ -1,0 +1,1293 @@
+This is TeXk, Version 3.14159265 (TeX Live 2017) (preloaded format=tex 2017.8.15)  26 JAN 2018 15:11
+ \write18 enabled.
+ file:line:error style messages enabled.
+**MCMthesis.sty
+(./MCMthesis.sty
+./MCMthesis.sty:8: Undefined control sequence.
+l.8 \NeedsTeXFormat
+                   {LaTeX2e}[1995/12/01]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:9: Undefined control sequence.
+l.9 \ProvidesPackage
+                    {MCMthesis}[2014/01/28 v5.01-L MCM thesis]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:10: Undefined control sequence.
+l.10 \typeout
+             {MCMthesis for MCM Version 5.01-L}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:14: Undefined control sequence.
+l.14 \RequirePackage
+                    {kvoptions}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:15: Undefined control sequence.
+l.15 \RequirePackage
+                    {etoolbox}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:16: Undefined control sequence.
+l.16 \SetupKeyvalOptions
+                        {family=MCM, prefix=MCM@opt@, setkeys=\kvsetkeys}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:16: Undefined control sequence.
+l.16 ...y=MCM, prefix=MCM@opt@, setkeys=\kvsetkeys
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:17: Undefined control sequence.
+l.17 \newcommand
+                {\skv}[1]{\kvsetkeys{MCM}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:17: Undefined control sequence.
+l.17 \newcommand{\skv
+                     }[1]{\kvsetkeys{MCM}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:17: Undefined control sequence.
+l.17 \newcommand{\skv}[1]{\kvsetkeys
+                                    {MCM}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:17: You can't use `macro parameter character #' in horizontal mode.
+l.17 \newcommand{\skv}[1]{\kvsetkeys{MCM}{#
+                                           1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./MCMthesis.sty:19: Undefined control sequence.
+l.19 \DeclareBoolOption
+                       [true]{sheet}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:20: Undefined control sequence.
+l.20 \DeclareComplementaryOption
+                                {nosheet}{sheet}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:22: Undefined control sequence.
+l.22 \DeclareBoolOption
+                       [true]{abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:23: Undefined control sequence.
+l.23 \DeclareComplementaryOption
+                                {noabstract}{abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:25: Undefined control sequence.
+l.25 \DeclareStringOption
+                         [0000]{tcn}[0000]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:27: Undefined control sequence.
+l.27 \DeclareDefaultOption
+                          {\relax}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:29: Undefined control sequence.
+l.29 \ProcessKeyvalOptions
+                          *\relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:32: Undefined control sequence.
+l.32 \newcommand
+                {\control}{\MCM@opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:32: Undefined control sequence.
+l.32 \newcommand{\control
+                         }{\MCM@opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:32: Undefined control sequence.
+l.32 \newcommand{\control}{\MCM
+                               @opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:33: Undefined control sequence.
+l.33 \newcommand
+                {\team}{Team \#\ \MCM@opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:33: Undefined control sequence.
+l.33 \newcommand{\team
+                      }{Team \#\ \MCM@opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:33: Undefined control sequence.
+l.33 \newcommand{\team}{Team \#\ \MCM
+                                     @opt@tcn}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:36: Undefined control sequence.
+l.36 \RequirePackage
+                    {fancyhdr,fancybox}        % personalize page header
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:37: Undefined control sequence.
+l.37 \RequirePackage
+                    {ifthen}                   % logic options
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:38: Undefined control sequence.
+l.38 \RequirePackage
+                    {lastpage}                 % refer to the number of last...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:39: Undefined control sequence.
+l.39 \RequirePackage
+                    {listings}                 % format source code
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:40: Undefined control sequence.
+l.40 \RequirePackage
+                    [toc,page,title,titletoc,header]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:42: Undefined control sequence.
+l.42 \RequirePackage
+                    {paralist}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:43: Undefined control sequence.
+l.43 \RequirePackage
+                    {amsthm,amsfonts}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:44: Undefined control sequence.
+l.44 \RequirePackage
+                    {amsmath,bm}               % AMSLaTeX
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:45: Undefined control sequence.
+l.45 \RequirePackage
+                    {amssymb,mathrsfs}         % AMSLaTeX sym-bols
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:46: Undefined control sequence.
+l.46 \RequirePackage
+                    {latexsym}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:47: Undefined control sequence.
+l.47 \RequirePackage
+                    {longtable,multirow,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:49: Undefined control sequence.
+l.49 \RequirePackage
+                    {flafter}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:50: Undefined control sequence.
+l.50 \RequirePackage
+                    {pifont,calc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:51: Undefined control sequence.
+l.51 \RequirePackage
+                    {colortbl,booktabs}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:52: Undefined control sequence.
+l.52 \RequirePackage
+                    {geometry}                 % page layout
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:53: Undefined control sequence.
+l.53 \RequirePackage
+                    [T1]{fontenc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:54: Undefined control sequence.
+l.54 \RequirePackage
+                    [scaled]{berasans}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:55: Undefined control sequence.
+l.55 \RequirePackage
+                    {hyperref}                 % hyper referance
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (15.16277pt too wide) in paragraph at lines 36--56
+[]\tenrm fancyhdr,fancybox ifthen last-page list-ings [toc,page,title,titletoc,header] ap-pendix par-al-ist am-sthm,amsfonts|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm f
+.\tenrm a
+.\tenrm n
+.\tenrm c
+.etc.
+
+./MCMthesis.sty:58: Undefined control sequence.
+l.58 \geometry
+              {a4paper, margin = 2.5cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:61: Undefined control sequence.
+l.61 \RequirePackage
+                    {ifpdf, ifxetex}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:64: Undefined control sequence.
+l.64 \ifpdf
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:65: Undefined control sequence.
+l.65   \hypersetup
+                  {hidelinks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:66: Extra \else.
+l.66 \else
+          
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:67: Undefined control sequence.
+l.67   \ifxetex
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:68: Undefined control sequence.
+l.68     \hypersetup
+                    {hidelinks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:69: Extra \else.
+l.69   \else
+            
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:70: Undefined control sequence.
+l.70     \hypersetup
+                    {dvipdfm, hidelinks}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:71: Extra \fi.
+l.71   \fi
+          
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:72: Extra \fi.
+l.72 \fi
+        
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:75: Undefined control sequence.
+l.75 \ifpdf
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:76: Undefined control sequence.
+l.76   \RequirePackage
+                      {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:77: Undefined control sequence.
+l.77   \RequirePackage
+                      {epstopdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:78: Extra \else.
+l.78 \else
+          
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:79: Undefined control sequence.
+l.79   \ifxetex
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:80: Undefined control sequence.
+l.80     \RequirePackage
+                        {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:81: Extra \else.
+l.81   \else
+            
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:82: Undefined control sequence.
+l.82     \RequirePackage
+                        [dvipdfmx]{graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:83: Undefined control sequence.
+l.83     \RequirePackage
+                        {bmpsize}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:84: Extra \fi.
+l.84   \fi
+          
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:85: Extra \fi.
+l.85 \fi
+        
+I'm ignoring this; it doesn't match any \if.
+
+./MCMthesis.sty:88: Undefined control sequence.
+l.88 \RequirePackage
+                    {xcolor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:89: Undefined control sequence.
+l.89 \definecolor
+                 {grey}{rgb}{0.91,0.91,0.91}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:96: Undefined control sequence.
+l.96 \renewcommand
+                  \tableofcontents{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:96: Undefined control sequence.
+l.96 \renewcommand\tableofcontents
+                                  {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> \normalfont 
+                       \Large \bfseries \contentsname \@mkboth{\MakeUppercas...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> \normalfont \Large 
+                              \bfseries \contentsname \@mkboth{\MakeUppercas...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> \normalfont \Large \bfseries 
+                                        \contentsname \@mkboth{\MakeUppercas...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...font \Large \bfseries \contentsname 
+                                                  \@mkboth{\MakeUppercase \c...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...nt \Large \bfseries \contentsname \@
+                                                  mkboth{\MakeUppercase \con...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...ontentsname \@mkboth{\MakeUppercase 
+                                                  \contentsname }{\MakeUpper...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...mkboth{\MakeUppercase \contentsname 
+                                                  }{\MakeUppercase \contents...
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...case \contentsname }{\MakeUppercase 
+                                                  \contentsname }
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:99: Undefined control sequence.
+<argument> ...name }{\MakeUppercase \contentsname 
+                                                  }
+\centerline #1->\line {\hss #1
+                              \hss }
+l.99 ...ontentsname}{\MakeUppercase\contentsname}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:101: Undefined control sequence.
+l.101     \@
+            starttoc{toc}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:104: Undefined control sequence.
+l.104 \setcounter
+                 {totalnumber}{6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:105: Undefined control sequence.
+l.105 \setcounter
+                 {topnumber}{3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:106: Undefined control sequence.
+l.106 \setcounter
+                 {bottomnumber}{3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:108: Undefined control sequence.
+l.108 \renewcommand
+                   {\textfraction}{0.15}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:108: Undefined control sequence.
+l.108 \renewcommand{\textfraction
+                                 }{0.15}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:109: Undefined control sequence.
+l.109 \renewcommand
+                   {\topfraction}{0.85}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:109: Undefined control sequence.
+l.109 \renewcommand{\topfraction
+                                }{0.85}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:110: Undefined control sequence.
+l.110 \renewcommand
+                   {\bottomfraction}{0.65}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:110: Undefined control sequence.
+l.110 \renewcommand{\bottomfraction
+                                   }{0.65}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:111: Undefined control sequence.
+l.111 \renewcommand
+                   {\floatpagefraction}{0.60}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:111: Undefined control sequence.
+l.111 \renewcommand{\floatpagefraction
+                                      }{0.60}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\@=\box16
+./MCMthesis.sty:141: A <box> was supposed to be here.
+<to be read again> 
+                   a
+l.141 \setbox\@a
+                bstract\hbox{}%
+I was expecting to see \hbox or \vbox or \copy or \box or
+something like that. So you might find something missing in
+your output. But keep trying; you can fix this later.
+
+\@=\box17
+./MCMthesis.sty:146: A <box> was supposed to be here.
+<to be read again> 
+                   k
+l.146 \setbox\@k
+                eywords\hbox{}
+I was expecting to see \hbox or \vbox or \copy or \box or
+something like that. So you might find something missing in
+your output. But keep trying; you can fix this later.
+
+./MCMthesis.sty:158: Undefined control sequence.
+l.158 \renewcommand
+                   {\figurename}{Figure}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:158: Undefined control sequence.
+l.158 \renewcommand{\figurename
+                               }{Figure}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:159: Undefined control sequence.
+l.159 \renewcommand
+                   {\tablename}{Table}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:159: Undefined control sequence.
+l.159 \renewcommand{\tablename
+                              }{Table}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:162: Undefined control sequence.
+l.162 \newcommand
+                 {\thline}{\hline\par\hline\par\hline}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:162: Undefined control sequence.
+l.162 \newcommand{\thline
+                         }{\hline\par\hline\par\hline}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:162: Undefined control sequence.
+l.162 \newcommand{\thline}{\hline
+                                 \par\hline\par\hline}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:162: Undefined control sequence.
+l.162 \newcommand{\thline}{\hline\par\hline
+                                           \par\hline}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:162: Undefined control sequence.
+l.162 ...mmand{\thline}{\hline\par\hline\par\hline
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:165: Undefined control sequence.
+l.165 \graphicspath
+                   {{./}{./img/}{./fig/}{./image/}{./figure/}{./picture/}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:169: Undefined control sequence.
+l.169 \newtheorem
+                 {Theorem}{Theorem}[section]%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:170: Undefined control sequence.
+l.170 \newtheorem
+                 {Lemma}[Theorem]{Lemma}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:171: Undefined control sequence.
+l.171 \newtheorem
+                 {Corollary}[Theorem]{Corollary}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:172: Undefined control sequence.
+l.172 \newtheorem
+                 {Proposition}[Theorem]{Proposition}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:173: Undefined control sequence.
+l.173 \newtheorem
+                 {Definition}[Theorem]{Definition}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:174: Undefined control sequence.
+l.174 \newtheorem
+                 {Example}[Theorem]{Example}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:176: Undefined control sequence.
+l.176 \definecolor
+                  {grey}{rgb}{0.8,0.8,0.8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:177: Undefined control sequence.
+l.177 \definecolor
+                  {darkgreen}{rgb}{0,0.3,0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:178: Undefined control sequence.
+l.178 \definecolor
+                  {darkblue}{rgb}{0,0,0.3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:180: Undefined control sequence.
+l.180 \lstset
+             {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:190: Undefined control sequence.
+l.190     basicstyle={\footnotesize
+                                   \lstbasicfont},%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:190: Undefined control sequence.
+\lstbasicfont ->\fontfamily 
+                            {pcr}\selectfont \footnotesize 
+l.190     basicstyle={\footnotesize\lstbasicfont
+                                                },%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:190: Undefined control sequence.
+\lstbasicfont ->\fontfamily {pcr}\selectfont 
+                                             \footnotesize 
+l.190     basicstyle={\footnotesize\lstbasicfont
+                                                },%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:190: Undefined control sequence.
+\lstbasicfont ...y {pcr}\selectfont \footnotesize 
+                                                  
+l.190     basicstyle={\footnotesize\lstbasicfont
+                                                },%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:191: Undefined control sequence.
+l.191     keywordstyle=\color
+                             {darkblue}\bfseries,%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:191: Undefined control sequence.
+l.191     keywordstyle=\color{darkblue}\bfseries
+                                                ,%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:193: Undefined control sequence.
+l.193     commentstyle=\color
+                             {darkgreen},%\itshape,%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:194: Undefined control sequence.
+l.194     stringstyle=\color
+                            {black}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:196: Undefined control sequence.
+l.196 \lstloadlanguages
+                       {C,C++,Java,Matlab,Mathematica}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (373.33023pt too wide) in paragraph at lines 169--197
+[]\tenrm TheoremTheorem[section]Lemma[Theorem]LemmaCorollary[Theorem]CorollaryProposition[Theorem]PropositionDefinition[Theorem]DefinitionExample[Theorem]Examplegreyrgb0.8,0.8,0.8|
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm T
+.\tenrm h
+.\tenrm e
+.\tenrm o
+.etc.
+
+
+Overfull \hbox (418.52464pt too wide) in paragraph at lines 169--197
+\tenrm dark-green-rgb0,0.3,0 dark-bluergb0,0,0.3  show-stringspaces=false, shows-paces=false,tabsize=4,frame=lines,basicstyle=pcr,keywordstyle=darkblue,identifierstyle=,commentstyle=darkgreen,stringstyle=black|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm a
+.\tenrm r
+.\tenrm k
+.\discretionary
+..\tenrm -
+.etc.
+
+./MCMthesis.sty:199: Undefined control sequence.
+l.199 \setcounter
+                 {page}{1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:200: Undefined control sequence.
+l.200 \pagestyle
+                {fancy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:201: Undefined control sequence.
+l.201 \lhead
+            {\small \team}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:201: Undefined control sequence.
+l.201 \lhead{\small
+                    \team}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:201: Undefined control sequence.
+l.201 \lhead{\small \team
+                         }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:202: Undefined control sequence.
+l.202 \chead
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:203: Undefined control sequence.
+l.203 \rhead
+            {\small Page \thepage\ of \pageref{LastPage}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:203: Undefined control sequence.
+l.203 \rhead{\small
+                    Page \thepage\ of \pageref{LastPage}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:203: Undefined control sequence.
+l.203 \rhead{\small Page \thepage
+                                 \ of \pageref{LastPage}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:203: Undefined control sequence.
+l.203 \rhead{\small Page \thepage\ of \pageref
+                                              {LastPage}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:204: Undefined control sequence.
+l.204 \lfoot
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:205: Undefined control sequence.
+l.205 \cfoot
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:206: Undefined control sequence.
+l.206 \rfoot
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:209: Undefined control sequence.
+l.209 \newcommand
+                 {\@problem}[1]{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:210: Undefined control sequence.
+l.210 \newcommand
+                 {\problem}[1]{\gdef\@problem{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:210: Undefined control sequence.
+l.210 \newcommand{\problem
+                          }[1]{\gdef\@problem{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./MCMthesis.sty:210: Illegal parameter number in definition of \@.
+<to be read again> 
+                   1
+l.210 \newcommand{\problem}[1]{\gdef\@problem{#1
+                                                }}
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+)
+! Emergency stop.
+<*> MCMthesis.sty
+                 
+*** (job aborted, no legal \end found)
+
+No pages of output.
